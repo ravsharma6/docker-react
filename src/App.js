@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My First Application Deployed in AWS
+          Ravi Sharma Application Deployed in AWS
         </a>
       </header>
     </div>
