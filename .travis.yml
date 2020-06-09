@@ -7,7 +7,7 @@ services:
 before_install:
   - docker build -t ravsharma6/docker-react -f Dockerfile.dev .
 
- script:
+script:
    - docker run -e CI=true ravsharma6/docker-react npm run test
 
 # deploy:
